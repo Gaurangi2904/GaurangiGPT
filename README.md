@@ -14,8 +14,6 @@ https://gaurangi-gpt.vercel.app/
 ### ⚙️ Backend API
 https://gaurangigpt.onrender.com
 
-### 💻 GitHub Repository
-https://github.com/Gaurangi2904/GaurangiGPT
 
 ---
 
